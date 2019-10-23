@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Date  : 2019/10/22 08:07
-# @Author: PythonVampire
-# @email : vampire@ivamp.cn
+# @Author: yanmiexingkong
+# @email : yanmiexingkong@gmail.com
 # @File  : split_url.py
 
 url1 = 'https://www.ncbi.nlm.nih.gov/stat?ancestorClassName=searchInfo%2Call%2Call%2Cblastp%2Cf-wrap-1%2Call&ancestorId=sopts%2CoptSection%2CsearchForm%2Ccontent%2Ccontent-wrap&blastButton=search&browserheight=1066&browserwidth=701&colorDepth=24&cookieSize=791&cookieenabled=true&eventid=0&ga_label=NONE&is_browser_supported=true&jsevent=click&link_action_name=%0A%20%20%20%20%0A%20%20&link_category_name=&link_class=summary&link_href=&link_id=blastButton1&link_name=&link_ref=&link_section_name=&link_sid=&link_text=%0A%20%20%20%20%0A%20%20&myncbi_signed_in=true&ncbi_algorithm=&ncbi_app=blast&ncbi_db=&ncbi_featured_srcdb=&ncbi_nwds=&ncbi_pcid=&ncbi_pdid=blastsearch&ncbi_phid=55BA5057DADA56810000000000000001&ncbi_program=blastp&ncbi_sessionid=5AAB49C2DAD5CBD1_0000SID&ncbi_stat=false&ncbi_timesinceload=17225&ncbi_timesincenavstart=26793&pagename=blast%3A%3Ablastsearch%3ANONE&screenavailheight=1177&screenavailwidth=1920&screenheight=1200&screenwidth=1920&server=blast.ncbi.nlm.nih.gov&sgSource=api&sgversion=0.26.1&sgversion_hotfix=1&sgversion_major=0&sgversion_minor=26&spa_index=0'
